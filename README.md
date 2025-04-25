@@ -1,7 +1,3 @@
-# TodoList
-
-Here's a good GitHub repository description for your TodoApp:
-
 # Modern Todo App
 
 A sleek and modern Todo application built with React and styled with Tailwind CSS. This elegant task manager features smooth animations, a responsive design, and persistent storage to help you stay organized.
